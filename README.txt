@@ -1,1 +1,1 @@
-Implemented a DNSLookup Service that outputs the IP address of inputted domain names. This program can also output the traceroute to track the steps taken to find the IP. This project was completed through partner programming.
+Implemented a DNSLookup Service that outputs the IP address of inputted domain names. This program can also output the traceroute to track the steps taken to find the IP. This project was completed through pair programming.
